@@ -1,6 +1,6 @@
 # Russia Today Vote Botting by VanHoevenTR
 
-![](Images/Tool.png)
+
 
 _Tool in action_
 
@@ -8,7 +8,7 @@ There are downvoter bots who kept mass downvoting pro-ukrainian comments, I figu
 
 Because I do not know how to bypass invisible captcha, I use tokens. It can be easly obtained from the browser after logged in (Explained below). PLEASE TELL ME if you know how to bypass captcha. We could do more fun stuff :D
 
-**Tool has been removed due to lack of interest. If you need it, message me anytime on discord `VanHoeven#5150`*	
+**Tool has been removed due to lack of interest. If you need it, message me anytime on discord `VanHoeven#5150`**
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 

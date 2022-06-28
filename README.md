@@ -1,6 +1,6 @@
 # Russia Today Vote Botting by VanHoevenTR
 
-
+![Tool](https://user-images.githubusercontent.com/70694330/176108474-48c926ef-ed65-424c-a42b-c02462fc8ff1.png)
 
 _Tool in action_
 

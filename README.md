@@ -70,9 +70,7 @@ This tool is really simple to use
 
 Download the tool: https://mega.nz/folder/PUJ12T6Z#0MrSFBO8QTMGqMDGdNxk5g
 
-WARNING: Tolstoy Toolkit sometimes get flagged as malicious by security software. Of course, Tolstoy Toolkit is safe. If you have some programming skills, you can even verify that yourself by looking at the source code (Haven't published source on Github yet, so check using dnSpy). However, some anti-malware tools are over-sensitive and flag programs as malicious if they are not sure.
-
-The easiest way of fixing the problem is to send the file to the developer of your security software. Depending on your anti-malware program, this can be done either from within the software (there might be a link/button in the 'malware detected' message box), using a web form or via email. If you are unsure how it works, a simple web search should give you all information you need.
+WARNING: Tolstoy Toolkit sometimes get flagged as malicious by security software. Of course, Tolstoy Toolkit is safe. If you have some programming skills, you can even verify that yourself by looking at the source code or check exe using dnSpy. However, some anti-malware tools are over-sensitive and flag programs as malicious if they are not sure. The easiest way of fixing the problem is to send the file to the developer of your security software
 
 Run it
 
@@ -88,7 +86,7 @@ Double click to view profile comments. Hold SHIFT or CTRL to select multiple com
 
 Have fun voting :D
 
-Do not forget, Tolstoy have rate limits, don't aggressively voting. Try to limit voting or delay to keep your tokens safe from rate limit. Be aware Z__Z__Z bots may be quick enough to detect upvoted comments and re-downvote comments again, so be prepared to vote fast. Rate limit starts with 5 mins, if you keep hitting limits, you token(s) will be limited for up to 24 hours or so
+Do not forget, Tolstoy have rate limits, don't aggressively voting. Try to limit voting or delay to keep your tokens safe from rate limit. ~~Be aware Z__Z__Z bots may be quick enough to detect upvoted comments and re-downvote comments again, so be prepared to vote fast.~~ Rate limit starts with 5 mins, if you keep hitting limits, you token(s) will be limited for up to 24 hours or so
 
 ## How to obtain token
 

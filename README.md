@@ -124,10 +124,3 @@ Use Visual Studio 2022 to compile the project
 
 For HTTP debugging, I used Fiddler Classic https://www.telerik.com/download/fiddler. You can also do that via browser's inspector tool
 
-## Contact
-
-Discord: `VanHoeven#5150`
-
-Email: vanhoeventr@proton.me
-
-_No, I'm not Dutch lol_
